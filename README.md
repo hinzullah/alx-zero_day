@@ -1,4 +1,1 @@
-My first readme> README.md
-
-
-echo My first readme
+My first readme
